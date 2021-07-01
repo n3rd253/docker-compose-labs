@@ -38,7 +38,7 @@ If you don't see backend changes applied when you refresh, or frontend changes, 
 ![Windows CHOKIDAR](./images/Windows_CHOKIDAR.png)
 
 
-### Setup references
+## Setup references
 
 References for setting up a Node project with Docker and docker-compose:
 
